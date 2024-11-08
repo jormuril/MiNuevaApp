@@ -72,3 +72,16 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Archivos de iOS
+ios/Pods/
+ios/build/
+
+# Archivos de Android
+android/.gradle/
+android/app/build/
+android/build/
+
+# Archivos de configuración de editor
+.vscode/
+.idea/
